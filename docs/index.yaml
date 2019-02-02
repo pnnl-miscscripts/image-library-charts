@@ -3,7 +3,7 @@ entries:
   dhcpd:
   - apiVersion: v1
     appVersion: 4.4.1-1
-    created: 2019-02-02T09:05:53.065156333-08:00
+    created: 2019-02-02T09:14:48.32853489-08:00
     description: A Helm chart for Kubernetes
     digest: c468d18d23a38ce36a9810c4883313438365365fec6ce8cdad3bdcda3179deb9
     name: dhcpd
@@ -13,11 +13,11 @@ entries:
   ipmitool:
   - apiVersion: v1
     appVersion: 1.8.18-1
-    created: 2019-02-02T09:05:53.065453428-08:00
+    created: 2019-02-02T09:14:48.328677911-08:00
     description: A Helm chart for Kubernetes
     digest: 9d0f52c52aab95d042b63eed3d2314b40c3e499ca1ab67068cd1d9a9bc626124
     name: ipmitool
     urls:
     - ipmitool-1.0.0.tgz
     version: 1.0.0
-generated: 2019-02-02T09:05:53.064471277-08:00
+generated: 2019-02-02T09:14:48.328151787-08:00
