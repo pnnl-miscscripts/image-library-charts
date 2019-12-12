@@ -3,7 +3,7 @@ entries:
   anaconda-nginx:
   - apiVersion: v1
     appVersion: 20181125-1500-nginx-8
-    created: "2019-12-11T04:43:41.030047404Z"
+    created: "2019-12-12T04:42:57.000037955Z"
     description: A Helm chart for Kubernetes
     digest: da94373803dc9d4286b480e380fd52bb094b2997ecd8488aaca278f1c9139083
     name: anaconda-nginx
@@ -13,7 +13,7 @@ entries:
   chronyd:
   - apiVersion: v1
     appVersion: 3.4-1
-    created: "2019-12-11T04:43:41.030221461Z"
+    created: "2019-12-12T04:42:57.000632037Z"
     description: A Helm chart for Kubernetes
     digest: f638d732697cbfb6d7c50cb247090c5e8e6574813f909f0af27af7630f1f39a8
     name: chronyd
@@ -23,7 +23,7 @@ entries:
   debug-toolbox:
   - apiVersion: v1
     appVersion: 1.0.0-10
-    created: "2019-12-11T04:43:41.03050854Z"
+    created: "2019-12-12T04:42:57.001206804Z"
     description: A Helm chart for Kubernetes
     digest: 8122e296a1e33a2e04f142efb43de4de1813585c71e31b7755763c52f6d340ca
     name: debug-toolbox
@@ -32,7 +32,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.0.0-1
-    created: "2019-12-11T04:43:41.03035166Z"
+    created: "2019-12-12T04:42:57.000898481Z"
     description: A Helm chart for Kubernetes
     digest: 8a2afb97557d14d6b5f5cfc2e992d621938cffa3fa1f104852b1d3858819db62
     name: debug-toolbox
@@ -42,7 +42,7 @@ entries:
   dhcpd:
   - apiVersion: v1
     appVersion: 4.4.1-3
-    created: "2019-12-11T04:43:41.030772551Z"
+    created: "2019-12-12T04:42:57.001752316Z"
     description: A Helm chart for Kubernetes
     digest: c21b0ce4917c643594a23867aba424318e5ca211505075dcc0d7ff9aac745e3c
     name: dhcpd
@@ -51,7 +51,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 4.4.1-1
-    created: "2019-12-11T04:43:41.030647136Z"
+    created: "2019-12-12T04:42:57.001482581Z"
     description: A Helm chart for Kubernetes
     digest: c468d18d23a38ce36a9810c4883313438365365fec6ce8cdad3bdcda3179deb9
     name: dhcpd
@@ -61,7 +61,7 @@ entries:
   inotify-tools:
   - apiVersion: v1
     appVersion: 3.20.1-1
-    created: "2019-12-11T04:43:41.03089035Z"
+    created: "2019-12-12T04:42:57.002011117Z"
     description: A Helm chart for Kubernetes
     digest: ba2691dc7d6b19c21a5ea1cbba3d8f7a449f9b424f1ad8c7153e5682e6247b4e
     name: inotify-tools
@@ -71,7 +71,7 @@ entries:
   ipmitool:
   - apiVersion: v1
     appVersion: 1.8.18-4
-    created: "2019-12-11T04:43:41.031195101Z"
+    created: "2019-12-12T04:42:57.002710067Z"
     description: A Helm chart for Kubernetes
     digest: a54ed1168c3c286d020e183261a6a705f0174c6095cc06515f646caf6f6299a9
     name: ipmitool
@@ -80,7 +80,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.8.18-1
-    created: "2019-12-11T04:43:41.031031233Z"
+    created: "2019-12-12T04:42:57.002291512Z"
     description: A Helm chart for Kubernetes
     digest: 9d0f52c52aab95d042b63eed3d2314b40c3e499ca1ab67068cd1d9a9bc626124
     name: ipmitool
@@ -90,7 +90,7 @@ entries:
   k8s-node-image-nginx-1-13:
   - apiVersion: v1
     appVersion: 1.13.11-nginx-1
-    created: "2019-12-11T04:43:41.03133713Z"
+    created: "2019-12-12T04:42:57.002938382Z"
     description: A Helm chart for Kubernetes
     digest: de31b935e2d02dbf751c92e3d53673d5fe2fc0ba3cef18db50fe4c7c95da6477
     name: k8s-node-image-nginx-1-13
@@ -99,30 +99,30 @@ entries:
     version: 2.0.0
   k8s-node-image-nginx-1-14:
   - apiVersion: v1
-    appVersion: 1.14.9-nginx-5
-    created: "2019-12-11T04:43:41.031759542Z"
+    appVersion: 1.14.10-nginx-1
+    created: "2019-12-12T04:42:57.003085981Z"
     description: A Helm chart for Kubernetes
-    digest: df920f2373dad99e5052dee42c09d2d2c2cfb56bc373c5b1c1256e428f15a678
+    digest: aecb84c5f9287f72697cb2f53dcdf9a537695a51bcdaeb2abbd871d6a42e115e
     name: k8s-node-image-nginx-1-14
     urls:
     - k8s-node-image-nginx-1-14-2.0.0.tgz
     version: 2.0.0
   k8s-node-image-nginx-1-15:
   - apiVersion: v1
-    appVersion: 1.15.6-nginx-5
-    created: "2019-12-11T04:43:41.032204329Z"
+    appVersion: 1.15.7-nginx-1
+    created: "2019-12-12T04:42:57.003222645Z"
     description: A Helm chart for Kubernetes
-    digest: 66f39d72f6d5e1ce4211e44bdfca7109cd52d0b5085b3af00738c9b6c8088d5b
+    digest: 8563428beadc17953382fee27d6387d564575196796811a9159f40ab8d4909aa
     name: k8s-node-image-nginx-1-15
     urls:
     - k8s-node-image-nginx-1-15-2.0.0.tgz
     version: 2.0.0
   k8s-node-image-nginx-1-16:
   - apiVersion: v1
-    appVersion: 1.16.3-nginx-5
-    created: "2019-12-11T04:43:41.032441099Z"
+    appVersion: 1.16.4-nginx-1
+    created: "2019-12-12T04:42:57.003371892Z"
     description: A Helm chart for Kubernetes
-    digest: 0780d356c7eb6c7bc86aa51222b7cef1ac4842a147cde93d2e7cd3484b31810c
+    digest: 3de778b9999b6bc10a016549d0db52e663160090bb13f95e9f542af0ce5ca5e4
     name: k8s-node-image-nginx-1-16
     urls:
     - k8s-node-image-nginx-1-16-2.0.0.tgz
@@ -130,11 +130,11 @@ entries:
   pixiecore:
   - apiVersion: v1
     appVersion: 1.0.1-1
-    created: "2019-12-11T04:43:41.032681581Z"
+    created: "2019-12-12T04:42:57.003539277Z"
     description: A Helm chart for Kubernetes
     digest: ad5429233a49d263a4425b43294a0451444546de63ede3b81371b01647d20a4f
     name: pixiecore
     urls:
     - pixiecore-2.0.0.tgz
     version: 2.0.0
-generated: "2019-12-11T04:43:41.029688238Z"
+generated: "2019-12-12T04:42:56.999320459Z"
